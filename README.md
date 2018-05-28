@@ -45,7 +45,7 @@ Indica a alteração do valor após cada ciclo do loop. Toda vez que o interpret
 3. Carregue os nomes e diretórios home de todos os usuários, usando for.
 
 ## Desafios 
-###(Continuação dos desafios da aula passada)
+### (Continuação dos desafios da aula passada)
 1. Crie um programa que leia todos os produtos cadastrados e mostre um resumo para cada item, e um resumo do valor total de mercadorias em estoque.
 2. Crie um programa de cadastro de usuários, que armazene o nome do usuário, quanto este usuário gastou em sua última compra.
 3. Crie um programa para que o usuário possa comprar os produtos, mostrando quanto ele já gastou na compra. No final da compra, gere um cupom de compras para o usuário saber o que ele comprou, e quanto foi gasto.
