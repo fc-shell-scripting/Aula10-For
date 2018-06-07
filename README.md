@@ -1,13 +1,13 @@
 <!-- vscode-markdown-toc -->
-* 1. [Intordução](#Intorduo)
-* 2. [_For_ para varrer uma lista](#For_paravarrerumalista)
-* 3. [_For_ usando contadores](#For_usandocontadores)
-* 4. [Exercícios](#Exerccios)
-* 5. [Desafios](#Desafios)
-	* 5.1. [(Continuação dos desafios da aula passada)](#Continuaodosdesafiosdaaulapassada)
+* [Intordução](#Intorduo)
+* [_For_ para varrer uma lista](#For_paravarrerumalista)
+* [_For_ usando contadores](#For_usandocontadores)
+* [Exercícios](#Exerccios)
+* [Desafios](#Desafios)
+	* [(Continuação dos desafios da aula passada)](#Continuaodosdesafiosdaaulapassada)
 
 <!-- vscode-markdown-toc-config
-	numbering=true
+	numbering=false
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
